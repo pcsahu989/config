@@ -1,5 +1,0 @@
-server:
-  port: 8081
-
-custom:
-  message: Welcome to Order Service

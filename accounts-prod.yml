@@ -4,8 +4,9 @@ build:
 accounts:
   message: "Welcome to the Accounts Service"
   contactDetails:
-    email: "pc@l2d.com"
+    email: "{cipher}811867a6e25568cbb3c1af96d84ed7fdb7738498d23706fee05bc412015d0186"
     name: "L2D Support"
   onCallSupport:
     - 123-456-7811
+
     - 123-456-7912
